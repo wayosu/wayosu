@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Wahyu%20Setiawan%20Usman&description=Hi,%20i%27m%20a%20freenlance%20web%20developer&image=https://avatars.githubusercontent.com/u/53135509?v=4&backgroundColor=%23ecf0f1&instagram=wayusmn&linkedin=Wahyu%20Setiawan%20Usman&github=wayosu&pattern=%230e1c37&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Wahyu%20Setiawan%20Usman&description=Hi,%20i%27m%20a%20freenlance%20web%20developer&image=https://avatars.githubusercontent.com/u/53135509?v=4&backgroundColor=%23ecf0f1&instagram=wayusmn&linkedin=Wahyu%20Setiawan%20Usman&github=wayosu&pattern=topography&colorPattern=%230e1c37)
 
 - 🔭 I’m currently working on: Blog & Design, and some Personal Project
 - 🌱 I’m currently learning ReactJS and Flutter. 🤣
