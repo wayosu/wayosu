@@ -4,7 +4,6 @@
 <p>Hi, I'm Wayo, I'm a Freelance Web Developer.</p>
 </div>
 
-#### I'm a Student, Freelance Web Developer
 - 🔭 I’m currently working on: Blog & Design, and some Personal Project
 - 🌱 I’m currently learning ReactJS and Flutter. 🤣
 - 👯 I’m looking to forward to collaborate. 
