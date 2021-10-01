@@ -11,6 +11,6 @@
 
 <a align="center" href="https://wayosu.github.io">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=wayosu&show_icons=true&theme=dark" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayosu&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=dark&layout=compact" alt="languages" height="165">
+        <img src="https://github-readme-stats.vercel.app/api?username=wayosu&show_icons=true&theme=default" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayosu&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=default&layout=compact" alt="languages" height="165">
     </p>
 </a>
