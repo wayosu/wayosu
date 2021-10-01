@@ -1,12 +1,5 @@
 ![My card name](https://cardivo.vercel.app/api?name=Wahyu%20Setiawan%20Usman&description=Hi,%20i%27m%20a%20freenlance%20web%20developer&image=https://avatars.githubusercontent.com/u/53135509?v=4&backgroundColor=%23ecf0f1&instagram=wayusmn&linkedin=Wahyu%20Setiawan%20Usman&github=wayosu&pattern=leaf&colorPattern=%23eaeaea)
 
-
-<div align="center">
-<h3>Hi there 👋,</h3>
-<p>Welcome to My Profile</p>
-<p>Hi, I'm Wayo, I'm a Freelance Web Developer.</p>
-</div>
-
 - 🔭 I’m currently working on: Blog & Design, and some Personal Project
 - 🌱 I’m currently learning ReactJS and Flutter. 🤣
 - 👯 I’m looking to forward to collaborate. 
