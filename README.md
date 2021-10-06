@@ -1,6 +1,6 @@
 ![My card name](https://cardivo.vercel.app/api?name=Wahyu%20Setiawan%20Usman&description=Hi,%20i%27m%20a%20freenlance%20web%20developer&image=https://avatars.githubusercontent.com/u/53135509?v=4&backgroundColor=%230e1c37&instagram=wayusmn&linkedin=Wahyu%20Setiawan%20Usman&github=wayosu&pattern=wiggle&colorPattern=%23000&fontColor=%23fff&iconColor=%23fff&opacity=0.3)
 
-- 🔭 I’m currently working on: Blog & Design, and some Personal Project
+- 🔭 I’m currently working on Personal Project.
 - 🌱 I’m currently learning ReactJS and Flutter. 🤣
 - 👯 I’m looking to forward to collaborate. 
 - ⚡ Fun fact: I think I move a lot but I'm quiet.
