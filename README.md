@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Personal Project.
 - 🌱 I’m currently learning ReactJS and Flutter. 🤣
-- 👯 I’m looking to forward to collaborate. 
 - ⚡ Fun fact: I think I move a lot but I'm quiet.
 
 <a align="center" href="https://github.com/wayosu">
