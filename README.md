@@ -3,7 +3,7 @@
 # Hello, there! <img src="https://raw.githubusercontent.com/wayosu/wayosu/master/wave.gif" alt="wave.gif" width="30px">
 
 - 🔭 I’m currently working on Personal Project.
-- 🌱 I’m currently learning Flutter. 🤣
+- 🌱 I’m currently learning to face life. 🤣
 - ⚡ Fun fact: I think I move a lot but I'm quiet.
 
 <a align="center" href="https://github.com/wayosu">
