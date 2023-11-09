@@ -8,8 +8,8 @@ I'm Wayosu. I love building projects that aim to increase developer productivity
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-  <a href="https://linkedin.com/in/wahyu-setiawan-usman-9760a021b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-  <a href="https://instagram.com/wayoo.su" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/wahyu-setiawan-usman-9760a021b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+  <a href="https://instagram.com/wayoo.su" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 </p>
 
 ### ✨&nbsp; About Me
