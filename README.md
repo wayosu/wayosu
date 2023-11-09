@@ -1,4 +1,4 @@
-# Bismillah.
+# بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ
 
 - 🔭 I’m currently working on Personal Project.
 - 🌱 I’m currently learning to face life. 🤣
