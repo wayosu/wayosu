@@ -4,7 +4,7 @@ It's a place where I open up resources and do what I can do :rofl:
 I'm Wayosu. I love building projects that aim to increase developer productivity 🙌
 
 - 🔭 &nbsp;I’m currently working on Personal Project.
-- 🌱 &nbsp;I’m currently learning Go
+- 🌱 &nbsp;I’m currently learning Go & React
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
