@@ -1,5 +1,5 @@
 ### Bismillah. Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-It's a place where I open up resources and do what I can do :rofl:
+It's a place where I open up resources and do what I can do.
 
 I'm Wayosu. I love building projects that aim to increase developer productivity 🙌
 
