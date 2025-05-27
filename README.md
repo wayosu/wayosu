@@ -5,8 +5,10 @@ I'm Wayosu. I love building projects that aim to increase developer productivity
 
 I am an enthusiastic IT professional currently working as an IT staff member at a university in Gorontalo, Indonesia. I am passionate about exploring new things in the world of programming, and I enjoy diving deep into innovative technologies while continuously expanding my technical skills.
 
-- 🔭 &nbsp;I’m currently working on Personal Project.
-- 🌱 &nbsp;I’m currently learning to understand myself😂
+- 🔭 &nbsp;I’m currently engaged in my professional work.
+- 🌱 &nbsp;I’m on a journey to better understand myself.
+- 💼 &nbsp;I’m focused on growing my professional skills and career.
+- 🌟 &nbsp;I’m excited about new challenges and opportunities ahead.
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
