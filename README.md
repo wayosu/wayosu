@@ -40,9 +40,6 @@ I am an enthusiastic IT professional currently working as an IT staff member at 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
   </a>
   
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
-  </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
   </a>
