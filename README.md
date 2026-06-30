@@ -8,11 +8,6 @@ I'm Wayosu. I love building projects that aim to increase developer productivity
 - 💼 &nbsp;I’m focused on growing my professional skills and career.
 - 🌟 &nbsp;I’m excited about new challenges and opportunities ahead.
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-  <a href="https://linkedin.com/in/wahyu-setiawan-usman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-</p>
-
 ### ✨&nbsp; About Me
 I am an enthusiastic IT professional currently working as an IT staff member at a university in Gorontalo, Indonesia. I am passionate about exploring new things in the world of programming, and I enjoy diving deep into innovative technologies while continuously expanding my technical skills. I'm just an ordinary person who wants to be a developer. Trying to be good and useful.
 
